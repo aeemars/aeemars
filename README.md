@@ -20,7 +20,7 @@ I design and build backend services, decentralized applications, and mobile prod
 - 🔭 Currently building **Inventra**, a Flutter/Firebase shop management system for Nigerian SMEs
 - ⛓️ Exploring on-chain agent identity and reputation systems (ERC-8004, Arc network)
 - 🛠️ Comfortable across the stack: Python/Flask, Go, Solidity, Dart/Flutter
-- 📚 Always reading: documentation, programming books, and market research
+- 📚 Reads: documentations, programming books, and engages in Crypto market research
 
 ## Featured Projects
 
