@@ -6,8 +6,8 @@
 
 Computer Engineer building production-grade backend systems, on-chain applications, and cross-platform mobile apps.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aeemayo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aeemayo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aeemars)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aeemars)
 
 </div>
 
@@ -28,9 +28,10 @@ I design and build backend services, decentralized applications, and mobile prod
 |---|---|---|
 | [**PropFlow**](https://github.com/aeemars/PropFlow) | Fractional real estate investing on Arc (Circle's L1) — investors buy fractional shares of rental properties in USDC | Solidity, Flutter, Arc L1 |
 | [**Inventra**](https://github.com/aeemars/inventra) | Production-ready shop management system for SMEs — stock, sales, barcode scanning, staff access, reporting | Flutter, Firebase |
-| [**Agent-Passport**](https://github.com/aeemars/Agent-Passport) | Verifiable trust/reputation profile for on-chain AI agents, built on the ERC-8004 standard | TypeScript, Arc |
 | [**LiteBill**](https://github.com/aeemars/LiteBill) | Group expense splitting and settlement using a Solidity smart contract on LiteForge (Litecoin L2) | Solidity, TypeScript |
+| [**airacha**](https://github.com/aeemars/airacha) | Decentralized storage DApp for uploading and sharing files via IPFS | React, Storacha, IPFS |
 | [**Dec_Filesharer**](https://github.com/aeemars/Dec_Filesharer) | Decentralized file sharing with UCAN-based expiration, built on IPFS via Storacha | Go (Gin), React, IPFS |
+| [**Lifelog-Agente**](https://github.com/aeemars/Lifelog-Agente) | Personal health/productivity coach backend — structured logging with MongoDB Atlas, insight APIs, Vertex AI integration | Python, MongoDB, Vertex AI |
 
 ## Tech Stack
 
