@@ -1,44 +1,55 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# Hi, I'm Ayomide 👋
+
+**Backend Developer · Blockchain Engineer · Mobile Developer**
+
+Computer Engineer building production-grade backend systems, on-chain applications, and cross-platform mobile apps.
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aeemayo)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aeemayo)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## About
+
+I design and build backend services, decentralized applications, and mobile products, with a particular interest in smart contract security and on-chain agent infrastructure (ERC-8004, Arc). Outside of shipping, I spend time reading protocol documentation and following markets.
+
+- 🔭 Currently building **Inventra**, a Flutter/Firebase shop management system for Nigerian SMEs
+- ⛓️ Exploring on-chain agent identity and reputation systems (ERC-8004, Arc network)
+- 🛠️ Comfortable across the stack: Python/Flask, Go, Solidity, Dart/Flutter
+- 📚 Always reading — documentation, whitepapers, and market research
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**PropFlow**](https://github.com/aeemars/PropFlow) | Fractional real estate investing on Arc (Circle's L1) — investors buy fractional shares of rental properties in USDC | Solidity, Flutter, Arc L1 |
+| [**Inventra**](https://github.com/aeemars/inventra) | Production-ready shop management system for SMEs — stock, sales, barcode scanning, staff access, reporting | Flutter, Firebase |
+| [**Agent-Passport**](https://github.com/aeemars/Agent-Passport) | Verifiable trust/reputation profile for on-chain AI agents, built on the ERC-8004 standard | TypeScript, Arc |
+| [**LiteBill**](https://github.com/aeemars/LiteBill) | Group expense splitting and settlement using a Solidity smart contract on LiteForge (Litecoin L2) | Solidity, TypeScript |
+| [**Dec_Filesharer**](https://github.com/aeemars/Dec_Filesharer) | Decentralized file sharing with UCAN-based expiration, built on IPFS via Storacha | Go (Gin), React, IPFS |
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
 
 <div align="center">
-  <a href="https://x.com/aeemayo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@aeemayo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+<sub>Open to backend, blockchain, and mobile engineering opportunities.</sub>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Ayomide!<br><br>- 🔭 I’m a backend Developer<br>-  ⚡ In my free time I read software documentations/trade<br>- 😶‍🌫️ smartcontract security enthusiast</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-
-
-
-
-
-
-
-
-
