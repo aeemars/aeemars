@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayomide 👋
 
-**Backend Developer**
+**Backend Engineer**
 
 Computer Engineer building production-grade backend systems, on-chain applications, and cross-platform mobile apps.
 
