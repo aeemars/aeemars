@@ -27,7 +27,7 @@ I design and build backend services, decentralized applications, and mobile prod
 | Project | Description | Stack |
 |---|---|---|
 | [**PropFlow**](https://github.com/aeemars/PropFlow) | Fractional real estate investing on Arc (Circle's L1) — investors buy fractional shares of rental properties in USDC | Solidity, Flutter, Arc L1 |
-| [**Inventra**](https://github.com/aeemars/inventra) | Production-ready shop management system for SMEs — stock, sales, barcode scanning, staff access, reporting | Flutter, Firebase |
+| [**Kountly**](https://github.com/aeemars/inventra) | Production-ready shop management system for SMEs — stock, sales, barcode scanning, staff access, reporting | Flutter, Firebase |
 | [**LiteBill**](https://github.com/aeemars/LiteBill) | Group expense splitting and settlement using a Solidity smart contract on LiteForge (Litecoin L2) | Solidity, TypeScript |
 | [**airacha**](https://github.com/aeemars/airacha) | Decentralized storage DApp for uploading and sharing files via IPFS | React, Storacha, IPFS |
 | [**Dec_Filesharer**](https://github.com/aeemars/Dec_Filesharer) | Decentralized file sharing with UCAN-based expiration, built on IPFS via Storacha | Go (Gin), React, IPFS |
