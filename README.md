@@ -17,7 +17,7 @@ Computer Engineer building production-grade backend systems, on-chain applicatio
 
 I design and build backend services, decentralized applications, and mobile products, with a particular interest in smart contract security and on-chain agent infrastructure (ERC-8004, Arc). Outside of shipping, I spend time reading protocol documentation and following markets.
 
-- 🔭 Currently building **Inventra**, a Flutter/Firebase shop management system for Nigerian SMEs
+- 🔭 Currently building **Kountly**, a Flutter/Firebase shop management system for Nigerian SMEs
 - ⛓️ Exploring on-chain agent identity and reputation systems (ERC-8004, Arc network)
 - 🛠️ Comfortable across the stack: Python/Flask, Go, Solidity, Dart/Flutter
 - 📚 Reads: documentations, programming books, and engages in Crypto market research
