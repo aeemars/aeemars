@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ayomide 👋
+# Hi, I'm Aeem 👋
 
 **Backend Engineer**
 
