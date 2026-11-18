@@ -18,7 +18,7 @@ I design and build backend solutions & systems, with a particular interest in cl
 
 - 🔭 Currently building **Kountly**, a Flutter/Firebase shop management system for Nigerian SMEs
 - ⛓️ Exploring on-chain agent identity and reputation systems (ERC-8004, Arc network)
-- 🛠️ Comfortable across the stack: Python/Flask, Go, Solidity, Dart/Flutter
+- 🛠️ Comfortable across the stack: Python/Flask, Go, Solidity.
 - 📚 Reads: documentations, programming books, and engages in stocks market research
 
 ## Featured Projects
