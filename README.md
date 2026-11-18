@@ -4,7 +4,7 @@
 
 **Backend Engineer**
 
-Computer Engineer building production-grade backend systems, on-chain applications, and cross-platform mobile apps.
+Computer Engineer building production-grade backend systems, with interest in cloud networking & security(IAM)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aeemars)
 
