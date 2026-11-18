@@ -4,7 +4,7 @@
 
 **Backend Engineer**
 
-Computer Engineer building production-grade backend systems, with interest in cloud networking & security(IAM)
+Computer Engineer building production-grade backend systems.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aeemars)
 
@@ -14,7 +14,7 @@ Computer Engineer building production-grade backend systems, with interest in cl
 
 ## About
 
-I design and build backend solutions and mobile products, with a particular interest in cloud security(IAM) and AI infrastructure(GRC). 
+I design and build backend solutions & systems, with a particular interest in cloud security(IAM) and networking. 
 
 - 🔭 Currently building **Kountly**, a Flutter/Firebase shop management system for Nigerian SMEs
 - ⛓️ Exploring on-chain agent identity and reputation systems (ERC-8004, Arc network)
